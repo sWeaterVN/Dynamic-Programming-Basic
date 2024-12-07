@@ -4,7 +4,7 @@ int h, w;
 char a[1001][1001];
 int dp[1001][1001];
 const long long N=1e9+7;
-int main() 
+int main()
 {
     ios_base::sync_with_stdio(0);
     cin.tie(0); cout.tie(0);
